@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="PieChartView">
+        <attr name="out_radius" format="dimension"/>
+        <attr name="in_radius" format="dimension"/>
+        <attr name="distance_to_center" format="float"/>
+        <attr name="number_text_size" format="dimension"/>
+        <attr name="word_text_size" format="dimension"/>
+    </declare-styleable>
+
+</resources>
